@@ -137,14 +137,17 @@ xlabel("Time - (s)");
 ylabel("Amplitude");
 ```
 
+
 ## TABULATION
 <img width="1131" height="1256" alt="image" src="https://github.com/user-attachments/assets/2e8c64d5-b3a7-4480-86d8-4a2989152d11" />
+
 
 ## CALCULATION
 <img width="1280" height="750" alt="image" src="https://github.com/user-attachments/assets/accaa066-6eb2-40a7-bff1-05f1156c5720" />
 
 ## OUTPUT
 <img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/852e5ceb-3df2-441e-8213-5585eea5547a" />
+
 
 
 ## RESULT
